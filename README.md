@@ -4,7 +4,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Face Clustering using Distance-Based Machine Learning</title>
 </head>
 <body>
 
