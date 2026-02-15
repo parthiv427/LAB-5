@@ -65,7 +65,7 @@
 
   <h2>Results and Visuals</h2>
 
-![first_Image](image1.png)
+![first_Image](image1.jpg)
 ![secound_Image](kmeans_clustering.png)
 ![third_Image](faceclustering_template_image.png)
 ![fourth_Image](face_cluster1.png)
