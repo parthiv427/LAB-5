@@ -65,21 +65,13 @@
 
   <h2>Results and Visuals</h2>
 
-  <p>
-    <img src="image.png" alt="Detected Faces" width="400">
-  </p>
-  <p>
-    <img src="kmeans_clustering_hue_and_saturation.png" alt="K-Means Clustering" width="400">
-  </p>
-  <p>
-    <img src="faceclustering_template_image.png" alt="Template Classification" width="400">
-  </p>
-  <p>
-    <img src="face_clusters.png" alt="Face Groups" width="400">
-  </p>
-  <p>
-    <img src="temaplate.png" alt="Template Face" width="400">
-  </p>
+![first_Image](image1.png)
+![secound_Image](kmeans_clustering.png)
+![third_Image](faceclustering_template_image.png)
+![fourth_Image](face_cluster1.png)
+![fifth_Image](template.png)
+![sixth_Image](faceclustering_template.png)
+
 
   <h2>Observations</h2>
   <ul>
